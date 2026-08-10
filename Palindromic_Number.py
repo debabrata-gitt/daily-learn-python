@@ -8,4 +8,4 @@ while a>0:
     if copy==rev:
         print("Palindromic Number.")
     else:
-        print("Its Not A Palindromic Number.")    
+        print("Its Not A Palindromic Number.")
