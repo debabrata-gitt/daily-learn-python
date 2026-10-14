@@ -1,2 +1,4 @@
 Python File Handling
 This is my first file.
+Learning Python every day.
+Learning Python every day.
