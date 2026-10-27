@@ -1,4 +1,1 @@
-Apple
-Banana
-Mango
-Orange
+JAVA IS EASY. JAVA IS POWERFUL.
